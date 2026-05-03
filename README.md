@@ -4,7 +4,7 @@
 
 This is a LeafletJS-based prototype of a real time map for various transit systems, including Miami-Dade Transit and various trolley services.
 
-Live demo is at http://codeformiami.org/LeafletTransit. Past demo is at http://www.qtrandev.com/transit
+Live demo is at https://miami-transit.netlify.app. Past demo is at http://www.qtrandev.com/transit
 
 Reload the site often for the latest data to show. (Can use Shift + Reload button for full page refresh)  
 Press F12 in your browser to view the Javascript console for any errors.
@@ -17,7 +17,7 @@ The following data are shown
 * Points of interest
 
 Depends on https://github.com/CyberStrike/miami-transit-api to retrieve data from http://www.miamidade.gov/transit. During night-time when no bus data is returned, no buses are shown.  
-See http://miami-transit-api.herokuapp.com for API documentation.  
+See https://github.com/qtrandev/MiamiTrolleyInfo for past transit related documentation.  
 
 #### Status
 Beta. Working out bugs and looking at design.
@@ -36,7 +36,7 @@ Shows where all the Miami transit options are. Goal: Can you go to one website a
 
 ## Who
 
-[Code for Miami](https://github.com/Code-for-Miami)
+[Code for Miami](https://github.com/CodeforSouth)
 
 ## How
 #### Dependencies
@@ -63,7 +63,7 @@ Use a Javascript debugger to debug such as in Firefox or Chrome.
 Pull requests are accepted.  
 Add issues and features in issues list.
 Make the change yourself by editing the file in the dev branch on GitHub and make a pull request.  
-See https://github.com/Code-for-Miami/getting-started/wiki/Contributor-Workflow
+See https://github.com/CodeforSouth/getting-started/wiki/Contributor-Workflow
 
 ## Related Projects
 
